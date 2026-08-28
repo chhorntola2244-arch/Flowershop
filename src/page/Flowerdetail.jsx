@@ -5,9 +5,9 @@ import { useCart } from '../context/Cartcontext';
 function Flowerdetail() {
    const { Addtocart } = useCart();
   const { id } = useParams();
-  const [flowers, setFlower] = useState([]);
+  const [flowers, setFlower] = useState(null);
   useEffect(() => {
-    fetch("../public/Data/flower.json")
+    fetch("/Data/Flower.json")
       .then((res) => res.json())
       .then((Data) => {
         const founFlower = Data.find((item) => String(item.id) === String(id))
@@ -34,7 +34,7 @@ function Flowerdetail() {
           </div>
           <div className='ml-3'>
             <h2 className='text-xl font-bold text-gray-800'>{flowers.name}</h2>
-            <p className='text-red-500  text-lg'>${flowers.price}.99</p>
+            <p className='text-red-500  text-lg'>${flowers.price}</p>
             <p className='text-gray-400'>{flowers.description}</p>
             <div className='mt-4 '>
               <button onClick={() => Addtocart(flowers)} className=" bg-pink-500 hover:bg-pink-600 text-white  rounded-xl p-1 mt-2">Add to cart</button>
