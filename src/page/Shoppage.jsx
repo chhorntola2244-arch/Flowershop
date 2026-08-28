@@ -10,12 +10,12 @@ function Shoppage() {
     const { Addtocart } = useCart();
 
     useEffect(() => {
-        fetch("../public/Data/flower.json")
+        fetch("/Data/Flower.json")
             .then((res) => res.json())
             .then((Data) => {
                 setFlower(Data)
             })
-    })
+    },[])
     return (
         <div>
             <div className='bg-gray-200 w-full h-50'>
