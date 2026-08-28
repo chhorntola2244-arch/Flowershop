@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Red Rose",
+    "price": 25,
+    "image": "https://i.pinimg.com/736x/20/65/fe/2065fec003d410c84f8d3956d71934da.jpg",
+    "description": "Beautiful red roses that are perfect for expressing love, romance, and special feelings."
+  },
+  {
+    "id": 2,
+    "name": "Pink Rose",
+    "price": 22,
+    "image": "https://i.pinimg.com/736x/85/e3/b7/85e3b7b6f04340113bc559634a5fd64e.jpg",
+    "description": "Lovely pink roses that represent sweetness, appreciation, and friendship."
+  },
+  {
+    "id": 3,
+    "name": "White Rose",
+    "price": 20,
+    "image": "https://i.pinimg.com/736x/e0/f3/27/e0f327284075dcd54659c5334d97184b.jpg",
+    "description": "Elegant white roses that symbolize purity, peace, and new beginnings."
+  },
+  {
+    "id": 4,
+    "name": "Yellow Rose",
+    "price": 23,
+    "image": "https://i.pinimg.com/736x/30/32/01/30320178c1883cb67994bd35f82f93ef.jpg",
+    "description": "Bright yellow roses that bring happiness, friendship, and positive energy."
+  },
+  {
+    "id": 5,
+    "name": "Pink Tulip",
+    "price": 20,
+    "image": "https://i.pinimg.com/736x/c3/c9/6f/c3c96f7836fa79a3551658e92eab2f39.jpg",
+    "description": "Fresh pink tulips with a soft and charming appearance, perfect for special occasions."
+  },
+  {
+    "id": 6,
+    "name": "White Tulip",
+    "price": 19,
+    "image": "https://i.pinimg.com/736x/ee/4a/f8/ee4af8d494b5dfb2292f0754fe1b1e93.jpg",
+    "description": "Simple and elegant white tulips that create a peaceful and beautiful atmosphere."
+  },
+  {
+    "id": 7,
+    "name": "Purple Tulip",
+    "price": 21,
+    "image": "https://i.pinimg.com/736x/2b/62/4e/2b624ed652b790f5efd3ad68ac6dce27.jpg",
+    "description": "Beautiful purple tulips that add elegance and charm to any flower arrangement."
+  },
+  {
+    "id": 8,
+    "name": "Sunflower",
+    "price": 18,
+    "image": "https://i.pinimg.com/736x/72/00/0c/72000cff269211f6617a33c1d1d4afda.jpg",
+    "description": "Bright and cheerful sunflowers that bring warmth, happiness, and positive energy."
+  },
+  {
+    "id": 9,
+    "name": "White Lily",
+    "price": 28,
+    "image": "https://i.pinimg.com/736x/56/6c/e7/566ce74fa91844d5755e9982f7bd7cf6.jpg",
+    "description": "Graceful white lilies with a fresh fragrance, perfect for elegant decorations."
+  },
+  {
+    "id": 10,
+    "name": "Pink Lily",
+    "price": 27,
+    "image": "https://i.pinimg.com/736x/a2/44/da/a244da96ac72a6650518b3c5e85355da.jpg",
+    "description": "Beautiful pink lilies that add a soft and romantic touch to any occasion."
+  },
+  {
+    "id": 11,
+    "name": "Purple Orchid",
+    "price": 35,
+    "image": "https://i.pinimg.com/1200x/f1/bb/d4/f1bbd4c061775897cf857e748abf16dc.jpg",
+    "description": "Elegant purple orchids that are perfect for gifts, decorations, and special events."
+  },
+  {
+    "id": 12,
+    "name": "White Orchid",
+    "price": 32,
+    "image": "https://i.pinimg.com/736x/50/91/d1/5091d15ac7ceaf9ced2e37ae5636244d.jpg",
+    "description": "Pure white orchids with an elegant appearance, perfect for homes and celebrations."
+  },
+  {
+    "id": 13,
+    "name": "Pink Peony",
+    "price": 30,
+    "image": "https://i.pinimg.com/736x/c2/e1/6f/c2e16f6e4238369f3f6622bb1f711ed3.jpg",
+    "description": "Soft pink peonies with beautiful full petals, perfect for romantic flower bouquets."
+  },
+  {
+    "id": 14,
+    "name": "White Daisy",
+    "price": 15,
+    "image": "https://i.pinimg.com/736x/e5/fe/95/e5fe953c262dfafec07c59f815ef260b.jpg",
+    "description": "Fresh white daisies that create a simple, cheerful, and natural look."
+  },
+  {
+    "id": 15,
+    "name": "Pink Carnation",
+    "price": 18,
+    "image": "https://i.pinimg.com/736x/18/14/35/18143544ca14bb2f0f940ac735dd003f.jpg",
+    "description": "Lovely pink carnations that symbolize admiration, affection, and caring."
+  },
+  {
+    "id": 16,
+    "name": "Blue Hydrangea",
+    "price": 30,
+    "image": "https://i.pinimg.com/1200x/8e/43/ef/8e43efcf2ad7db5bc0de88b784899db5.jpg",
+    "description": "Beautiful blue hydrangeas with full flower clusters that create an elegant display."
+  },
+  {
+    "id": 17,
+    "name": "Purple Lavender",
+    "price": 24,
+    "image": "https://i.pinimg.com/1200x/fb/14/e7/fb14e7fc82843e66a8798552ccefe954.jpg",
+    "description": "Fragrant purple lavender flowers that create a relaxing and peaceful atmosphere."
+  },
+  {
+    "id": 18,
+    "name": "Cherry Blossom",
+    "price": 40,
+    "image": "https://i.pinimg.com/1200x/d8/f2/77/d8f2776beff845c62449e74b07623d9b.jpg",
+    "description": "Delicate cherry blossoms that bring a beautiful and refreshing spring atmosphere."
+  },
+  {
+    "id": 19,
+    "name": "Mixed Flower",
+    "price": 45,
+    "image": "https://i.pinimg.com/736x/5d/46/89/5d46896903fb081347513fbeef373266.jpg",
+    "description": "A colorful combination of fresh flowers, perfect for birthdays and celebrations."
+  },
+  {
+    "id": 20,
+    "name": "Luxury Bouquet",
+    "price": 60,
+    "image": "https://i.pinimg.com/736x/8a/0e/12/8a0e1225e8490fd11d0504402d4097a7.jpg",
+    "description": "A premium flower bouquet carefully arranged with beautiful fresh flowers for special moments."
+  }
+]
